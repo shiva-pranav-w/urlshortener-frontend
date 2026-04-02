@@ -13,7 +13,7 @@ A full-stack URL shortener with JWT authentication, Redis caching, and analytics
 - Deployment: Render (backend) + Vercel (frontend)
 
 ## Live Demo
-- Frontend: https://your-frontend.vercel.app
+- Frontend: https://urlshortener-frontend-black.vercel.app/
 - Backend: https://url-shortener-x6c5.onrender.com
 
 ## How to Run Locally
